@@ -10,7 +10,7 @@
 }
 
 body {
-		background: #ffffff;
+		background: rbg(255, 255, 255);
     font-family: 'Poppins', sans-serif;
     font-style: normal;
 		font-weight: 400;
