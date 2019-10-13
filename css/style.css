@@ -48,7 +48,7 @@ h5 {
 }
 
 p {
-    color: #707070;
+    color: rbg(112, 112, 112);
     font-size: 14px;
     line-height: 24px;
 }
